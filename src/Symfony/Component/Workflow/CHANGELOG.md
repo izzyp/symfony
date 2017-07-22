@@ -6,6 +6,11 @@ CHANGELOG
 
  * Removed class name support in `WorkflowRegistry::add()` as second parameter.
 
+3.4.0
+-----
+
+ * Added `workflow.completed` events which are fired after a transition is completed.
+
 3.3.0
 -----
 
